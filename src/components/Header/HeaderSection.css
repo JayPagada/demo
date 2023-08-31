@@ -1,0 +1,22 @@
+.header-wrapper .transparentPaper {
+  background-color: transparent;
+}
+.header-wrapper .toolbar {
+  display: flex;
+  justify-content: space-between;
+}
+.header-wrapper .custom-typography {
+  color: var(--color-white);
+  font-size: 18px;
+  font-weight: 600;
+}
+.header-wrapper .custom-typography2 {
+  color: #707070;
+  font-size: 13px;
+}
+.header-wrapper .topbar {
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+}

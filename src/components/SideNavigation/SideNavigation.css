@@ -1,0 +1,13 @@
+.SideNavigation .custom-typography {
+  color: var(--color-white);
+  font-weight: 700;
+  font-size: 15px;
+  padding: 8px 15px;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.chart-icon > svg > path {
+  fill: #666666;
+}

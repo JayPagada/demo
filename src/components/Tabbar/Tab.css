@@ -1,0 +1,51 @@
+.tabs {
+  padding: 20px;
+  border-radius: 24px;
+  border: 1px solid white;
+  margin: 20px 0px;
+}
+.tabs .css-1aquho2-MuiTabs-indicator {
+  background-color: #fff;
+}
+.tabs .account {
+  background-color: #141414;
+  padding: 30px;
+  border-radius: 35px;
+}
+.tabs .css-5ryogn-MuiButtonBase-root-MuiSwitch-switchBase.Mui-checked {
+  color: #fff;
+}
+.tabs
+  .css-5ryogn-MuiButtonBase-root-MuiSwitch-switchBase.Mui-checked
+  + .MuiSwitch-track {
+  background-color: #7b7fde;
+  opacity: 1;
+}
+.tabs .subscriber_btn {
+  background: rgba(20, 20, 20, 1);
+  border-right: 0px !important;
+}
+.tabs .subscriber_btn:hover {
+  background-color: #7b7fde;
+}
+.tabs .subscriber_btn-group {
+  background: rgba(31, 31, 31, 1);
+  padding: 5px;
+  gap: 2px;
+}
+.tabs .subscriber_select {
+  background-color: #fff;
+  height: 44px;
+  color: black;
+  border-radius: 40px;
+}
+
+.setting_icon {
+  background-color: #000;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 36px;
+  height: 36px;
+  border-radius: 50%;
+}
