@@ -19,9 +19,6 @@ body {
   --background-start-rgb: #000000;
   --color-white: #ffffff;
 
-  --background-start-rgb2: #232323;
-  --background-toggle: #ba7c46;
-
   --color-white2: #f7e7d8;
   --color-white3: #9a9696;
   --color-white4: #595959;
@@ -36,7 +33,7 @@ a {
   text-decoration: none;
 }
 .App {
-  max-width: 1400px;
+  max-width: 1920px;
   width: 100%;
   margin: auto;
 }

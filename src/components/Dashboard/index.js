@@ -1,6 +1,5 @@
 import { AppBar, Box, Stack, Toolbar, Typography } from "@mui/material";
 import "./DashboardSection.css";
-import GearSix from "../../svg/gearSix";
 import Tabbar from "../Tabbar";
 
 const Dashboard = () => {

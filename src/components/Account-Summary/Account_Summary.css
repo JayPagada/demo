@@ -1,0 +1,120 @@
+.accountSummary .account_box {
+  background-color: rgba(31, 31, 31, 1);
+  border-radius: 12px;
+  display: flex;
+  justify-content: space-between;
+  flex-direction: row;
+}
+.accountSummary .average_rr {
+  background-color: rgba(31, 31, 31, 1);
+  border-radius: 12px;
+}
+.accountSummary .pips {
+  display: flex;
+  justify-content: space-between;
+  flex-direction: row;
+  gap: "5px";
+  padding-top: 20px;
+}
+.accountSummary .growth {
+  background-color: rgba(31, 31, 31, 1);
+  border-radius: 12px;
+}
+.accountSummary .strike_rate {
+  background-image: linear-gradient(0deg, #11763d, #11763d),
+    linear-gradient(0deg, #052211, #052211);
+  border-radius: 12px;
+  border: 1px solid rgba(17, 118, 61, 1);
+  padding: 20px;
+}
+.accountSummary .circularProgressbar {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.accountSummary .custom-longs {
+  font-size: 13px;
+  color: rgba(255, 255, 255, 1);
+  font-weight: 500;
+}
+.accountSummary .short {
+  display: flex;
+  gap: 7px;
+  align-items: center;
+  font-size: 11px;
+  font-weight: 500px;
+  padding-top: 5px;
+}
+.accountSummary .short span svg path {
+  fill: rgba(233, 92, 123, 1);
+}
+.accountSummary .view_history {
+  background-color: rgba(20, 20, 20, 1);
+  font-weight: 400;
+  color: rgba(255, 255, 255, 1);
+  font-size: 12px;
+  margin: 15px auto;
+  border-radius: 40px;
+  padding: 15px 30px;
+  width: fit-content;
+}
+.accountSummary .dayselect {
+  background-color: rgba(31, 31, 31, 1);
+  font-weight: 500;
+  color: rgba(189, 189, 189, 1);
+  font-size: 15px;
+  height: 42px;
+  border: 0px;
+  border-radius: 12px;
+}
+.accountSummary .overall_trades {
+  font-weight: 700;
+  font-size: 22px;
+  color: rgba(255, 255, 255, 1);
+}
+.accountSummary .EURUSD {
+  color: rgba(112, 112, 112, 1);
+  font-size: 13px;
+  font-weight: 500;
+}
+.accountSummary .text_color {
+  color: rgba(255, 255, 255, 1);
+  font-size: 15px;
+  font-weight: 500;
+}
+.accountSummary .text_color span {
+  display: flex;
+  gap: 7px;
+  align-items: center;
+}
+.accountSummary .circle_green svg path {
+  fill: rgba(7, 254, 146, 1);
+}
+.accountSummary .circle_light_red svg path {
+  fill: rgba(203, 102, 255, 1);
+}
+.accountSummary .circle_orang svg path {
+  fill: rgba(254, 115, 7, 1);
+}
+.accountSummary .circle_yellow svg path {
+  fill: rgba(254, 213, 7, 1);
+}
+.accountSummary .circle_sky svg path {
+  fill: rgba(7, 254, 229, 1);
+}
+.accountSummary .watchicon svg path {
+  fill: rgba(24, 169, 87, 1);
+}
+.accountSummary .contained {
+  background-color: rgba(123, 127, 222, 1);
+  font-size: 11px;
+  font-weight: 500;
+  border-radius: 40px;
+  margin-top: 8px;
+}
+.accountSummary .contained:hover {
+  background-color: rgba(123, 127, 222, 1);
+}
+.trendup_icon svg path {
+  fill: rgba(123, 127, 222, 1);
+}
